@@ -1,5 +1,6 @@
-### Hello Peeps, I'm MERCIHYEONS
+## Hello Peeps, I'm MERCIHYEONS
 *currently learning for Python as my first programming language*
+
 REACH ME at instagram.com/dibskihuu
 
 
