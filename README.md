@@ -1,7 +1,7 @@
-- 👋 Well Hello, I’m @mercihyeons
-- 👀 I’m interested in Python
-- 🌱 I’m newbie here
-- 📫 You can reach me at @dibskihuu on Instagram
+### Hello Peeps, I'm MERCIHYEONS
+*currently learning for Python as my first programming language*
+REACH ME at instagram.com/dibskihuu
+
 
 <!---
 mercihyeons/mercihyeons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
