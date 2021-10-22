@@ -1,7 +1,8 @@
 ## Hello Peeps, I'm MERCIHYEONS
-*currently learning for Python as my first programming language*
+_currently learning for Python as my first programming language_	
 
-REACH ME at instagram.com/dibskihuu
+-𓀂 REACH ME at instagram.com/dibskihuu
+
 
 
 <!---
